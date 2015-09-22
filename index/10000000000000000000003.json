@@ -1,0 +1,166 @@
+{
+    "id": "10000000000000000000003",
+	"count": 5,
+    "version": 1,
+    "name": "资源包名称",
+	"desc": "资源包详细描述",
+    "playOrder": [
+        "img01",
+        "img02",
+        "img03",
+        "img04",
+        "img05"
+    ],
+	 "images": [
+        {
+			"id": "img01",
+			"desc": "图片1描述",
+            "source": 0,
+			"svid":"10051024140703123511200",
+			"type": 0,
+			"url": "http://",
+			"supportLevels": [
+                0,
+                1
+            ],
+			"audioClips": [
+                {
+					"id": "audio01",
+                    "desc": "Audio_1音频",
+					"loop": true,
+					"volume": 1.0,
+                    "type": "mp3",
+					"url": "https://raw.githubusercontent.com/zodsoft/PanoramicPhotos/master/Audio/Audio_1.mp3"
+                },
+				{
+					"id": "audio02",
+                    "desc": "Audio_2音频",
+					"loop": true,
+					"volume": 0.01,
+                    "type": "mp3",
+					"url": "https://raw.githubusercontent.com/zodsoft/PanoramicPhotos/master/Audio/Audio_2.mp3"
+                }
+            ]
+        },
+		{
+			"id": "img02",
+			"desc": "图片2描述",
+            "source": 0,
+			"svid":"10051550121021130344880",
+			"type": 0,
+			"url": "http://",
+			"supportLevels": [
+                0,
+                1
+            ],
+			"audioClips": [
+                {
+					"id": "audio03",
+                    "desc": "Audio_3音频",
+					"loop": true,
+					"volume": 0.8,
+                    "type": "mp3",
+					"url": "https://raw.githubusercontent.com/zodsoft/PanoramicPhotos/master/Audio/Audio_3.mp3"
+                },
+				{
+					"id": "audio04",
+                    "desc": "Audio_4音频",
+					"loop": true,
+					"volume": 0.01,
+                    "type": "mp3",
+					"url": "https://raw.githubusercontent.com/zodsoft/PanoramicPhotos/master/Audio/Audio_4.mp3"
+                }
+            ]
+        },
+		{
+			"id": "img03",
+			"desc": "图片3描述",
+            "source": 0,
+			"svid":"10051550121021130922840",
+			"type": 0,
+			"url": "http://",
+			"supportLevels": [
+                0,
+                1
+            ],
+			"audioClips": [
+                {
+					"id": "audio01",
+                    "desc": "Audio_3音频",
+					"loop": true,
+					"volume": 0.8,
+                    "type": "mp3",
+					"url": "https://raw.githubusercontent.com/zodsoft/PanoramicPhotos/master/Audio/Audio_1.mp3"
+                },
+				{
+					"id": "audio04",
+                    "desc": "Audio_4音频",
+					"loop": true,
+					"volume": 0.01,
+                    "type": "mp3",
+					"url": "https://raw.githubusercontent.com/zodsoft/PanoramicPhotos/master/Audio/Audio_4.mp3"
+                }
+            ]
+        },
+		{
+			"id": "img04",
+			"desc": "图片4描述",
+            "source": 0,
+			"svid":"10051550121021132916520",
+			"type": 0,
+			"url": "http://",
+			"supportLevels": [
+                0,
+                1
+            ],
+			"audioClips": [
+                {
+					"id": "audio01",
+                    "desc": "Audio_3音频",
+					"loop": true,
+					"volume": 0.8,
+                    "type": "mp3",
+					"url": "https://raw.githubusercontent.com/zodsoft/PanoramicPhotos/master/Audio/Audio_1.mp3"
+                },
+				{
+					"id": "audio04",
+                    "desc": "Audio_4音频",
+					"loop": true,
+					"volume": 0.01,
+                    "type": "mp3",
+					"url": "https://raw.githubusercontent.com/zodsoft/PanoramicPhotos/master/Audio/Audio_4.mp3"
+                }
+            ]
+        },
+		{
+			"id": "img05",
+			"desc": "图片5描述",
+            "source": 0,
+			"svid":"10051550121021132235360",
+			"type": 0,
+			"url": "http://",
+			"supportLevels": [
+                0,
+                1
+            ],
+			"audioClips": [
+                {
+					"id": "audio02",
+                    "desc": "Audio_2音频",
+					"loop": true,
+					"volume": 0.8,
+                    "type": "mp3",
+					"url": "https://raw.githubusercontent.com/zodsoft/PanoramicPhotos/master/Audio/Audio_2.mp3"
+                },
+				{
+					"id": "audio03",
+                    "desc": "Audio_3音频",
+					"loop": true,
+					"volume": 0.01,
+                    "type": "mp3",
+					"url": "https://raw.githubusercontent.com/zodsoft/PanoramicPhotos/master/Audio/Audio_3.mp3"
+                }
+            ]
+        }
+    ],
+}
